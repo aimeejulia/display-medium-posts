@@ -21,6 +21,16 @@
 		background-size: cover;
 		background-position: center;
 	}
-	#display-medium-owl-demo .details-title {
-		border-bottom: 1px solid #212121;
-	}
+  #display-medium-owl-demo .details-title {
+  padding: 15px 0px;
+  font-size: 22px;
+  font-family: sohne;
+  line-height: 21px;
+  color: black;
+  font-weight: bold;
+  border-bottom: 2px solid #212121;
+  text-rendering: optimizelegibility;
+}
+#display-medium-owl-demo a {
+		text-decoration: none;
+}
